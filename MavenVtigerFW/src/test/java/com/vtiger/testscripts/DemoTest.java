@@ -8,5 +8,7 @@ public class DemoTest {
 	public void checkDemo()
 	{
 		System.out.println("Demo running");
+		
+		System.out.println("DemoTest Class");
 	}
 }
