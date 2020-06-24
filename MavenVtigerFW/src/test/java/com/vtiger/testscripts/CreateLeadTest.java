@@ -30,7 +30,7 @@ public class CreateLeadTest extends BaseClass{
 		String actLeadMsg = lip.getSuccessMsg().getText();
 		
 		Assert.assertTrue(actLeadMsg.contains(data.getDataFromExcel("LeadData", 2, 3)));
-		System.out.println("Lead Creation Pass");
+		System.out.println("Lead Creation Pass Successfully");
 	}
 
 }
