@@ -10,5 +10,6 @@ public class DemoTest {
 		System.out.println("Demo running");
 		
 		System.out.println("DemoTest Class");
+		System.out.println("DemoTest Class");
 	}
 }
